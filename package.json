@@ -1,0 +1,11 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "worlflows with gulp,sass,browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prashanthi",
+  "license": "ISC"
+}
